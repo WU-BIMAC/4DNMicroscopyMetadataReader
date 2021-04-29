@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.umassmed.4DNMicroscopyMetadataReader</groupId>
 	<artifactId>4DNMicroscopyMetadataReader</artifactId>
-	<version>0.0.1</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 
 
